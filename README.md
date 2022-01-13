@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chickienickie
-- 👀 I’m wife to a data nerd 🤓 @hep_mp |   mama 👱👧  |  fitness junkie 🏋  |  book lover 📚
+- 👀 I’m wife to a data nerd 🤓 @heyMP |   mama 👱👧  |  fitness junkie 🏋  |  book lover 📚
 - 🌱 I’m currently learning HTML/CSS/JS 💻
 
 <!---
